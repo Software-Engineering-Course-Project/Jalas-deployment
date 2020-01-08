@@ -1,6 +1,6 @@
 [submodule "jalas"]
   path = jalas
-  url = ../jalas.git
+  url = ../../mohammadhadi.omidi95/jalas.git
 [submodule "jalas-front"]
   path = jalas-front
-  url = ../jalas-front.git
+  url = ../../navidakbari123/jalas-front.git
