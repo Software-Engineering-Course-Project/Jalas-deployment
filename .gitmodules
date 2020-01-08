@@ -1,6 +1,6 @@
 [submodule "jalas"]
-  path = jalas
-  url = https://gitlab.com/mohammadhadi.omidi95/jalas.git
+	path = jalas
+	url = https://gitlab.com/mohammadhadi.omidi95/jalas.git
 [submodule "jalas-front"]
-  path = jalas-front
-  url = https://gitlab.com/navidakbari123/jalas-front.git
+	path = jalas-front
+	url = https://gitlab.com/navidakbari123/jalas-front.git
