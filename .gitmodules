@@ -1,0 +1,6 @@
+[submodule "Jalas-Frontend"]
+	path = Jalas-Frontend
+	url = https://github.com/Software-Engineering-Course-Project/Jalas-Frontend.git
+[submodule "Jalas-Backend"]
+	path = Jalas-Backend
+	url = https://github.com/Software-Engineering-Course-Project/Jalas-Backend.git
