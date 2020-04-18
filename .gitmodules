@@ -1,6 +1,0 @@
-[submodule "jalas-backend"]
-	path = jalas-backend
-	url = https://github.com/Software-Engineering-Course-Project/Jalas-Backend.git
-[submodule "jalas-frontend"]
-	path = jalas-frontend
-	url = https://github.com/Software-Engineering-Course-Project/Jalas-Frontend.git
